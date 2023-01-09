@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Cremonese/Cremonese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3>Welcome to Cremonese's profile</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cremonese)](https://github.com/anuraghazra/github-readme-stats)
+<div align="left">
+  <a href="https://github.com/Cremonese/)">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cremonese&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cremonese&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
