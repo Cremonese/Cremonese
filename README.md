@@ -3,8 +3,8 @@
 
  <div>
   <a href="https://github.com/Cremonese">
-   <img align="center" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cremonese&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" height="140" src="https://github-readme-stats.vercel.app/api?username=Cremonese&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+   <img align="center" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cremonese&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img align="center" height="140" src="https://github-readme-stats.vercel.app/api?username=Cremonese&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
  
  ## Skills
@@ -18,7 +18,7 @@
   <img height="50" align="center" alt="Cremonese-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
-  <img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
+  <img align="right" height="180em" alt="Erica-yoda" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e476fy3r8qrm78ctkvj0jtmp7qmjqm5ilhv5e5f2das&rid=giphy.gif&ct=g">
 </div>
   
 </br>
